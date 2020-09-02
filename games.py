@@ -131,6 +131,5 @@ def roulette_game(guess, bet):
           print("You lost " + str(bet) + " dollars.\n")  
           return  -bet
 
-
 #Call your game of chance functions here
 #roulette_game(0, 10)
