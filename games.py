@@ -132,4 +132,4 @@ def roulette_game(guess, bet):
           return  -bet
 
 #Call your game of chance functions here
-#roulette_game(0, 10)
+roulette_game(0, 10)
